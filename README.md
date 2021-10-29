@@ -2,7 +2,6 @@
 
 1. Prepare yolov5 
 ```
-cd ./src
 ./run_yolov5.sh
 ```
 2. Pretrained weights can be downloaded:
