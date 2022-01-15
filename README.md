@@ -3,7 +3,7 @@
 - https://drive.google.com/drive/folders/1kbk8KFXlPjZ8YqF2J9Ef-F2ZSLbUJ0og?usp=sharing
 - [Data](https://drive.google.com/file/d/1ctUGrzJuRcax6ZgdtzE_gsBarPdN-uIz/view?usp=sharing) for training trajectory embedding model
 
-1. Download and extract a [modified snapshot](https://drive.google.com/file/d/1c3gn_0n_UVLRAmyMU9jdn3wgJgmS61Um/view?usp=sharing) of [yolov5](https://github.com/ultralytics/yolov5) into `src/yolov5/`
+1. Download and extract a [modified snapshot](https://drive.google.com/file/d/1c3gn_0n_UVLRAmyMU9jdn3wgJgmS61Um/view?usp=sharing) of [yolov5](https://github.com/ultralytics/yolov5) into `src/`
 2. Pretrained weights can be downloaded:
 - Yolov5 detector: 
     - [Vehicle](https://drive.google.com/file/d/1EZ7ls95GGUi5QjCGTtdmlKUi65Ox6HyS/view?usp=sharing) 
