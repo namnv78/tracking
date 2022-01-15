@@ -13,6 +13,6 @@
     - [Pedestrian](https://drive.google.com/file/d/1jSYQ-as1mgSL7lV0GU1bQKQi4wm9bq_u/view?usp=sharing)
 - Trajectory model: [here](https://drive.google.com/file/d/1LyK8FevMrt2lBMugpMEgmL8HcmmY0giB/view?usp=sharing)
 3. Notebooks
-- For training the trajectory embedding model, [refer this notebook](src\notebooks\TrajectoryTrain.ipynb)
-- For inferencing normal videos, [refer this notebook](src\notebooks\InferenceOnline.ipynb)
-- For inferencing MOT videos, [refer this notebook](src\notebooks\InferenceOnlineMOT.ipynb)
+- For training the trajectory embedding model, [refer this notebook](/src/notebooks/TrajectoryTrain.ipynb)
+- For inferencing normal videos, [refer this notebook](/src/notebooks/InferenceOnline.ipynb)
+- For inferencing MOT videos, [refer this notebook](/src/notebooks/InferenceOnlineMOT.ipynb)
