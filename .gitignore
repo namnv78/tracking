@@ -1,0 +1,6 @@
+/src/yolov5
+/src/data/*
+/src/output/*
+/src/weights/*
+/src/reid_new/__pycache__/*
+!.gitignore
